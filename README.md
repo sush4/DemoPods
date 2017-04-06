@@ -1,2 +1,0 @@
-# DemoPods
-Pod Spec
